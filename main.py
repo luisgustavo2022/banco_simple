@@ -9,9 +9,3 @@ class Conta:
         self._saldo = self._saldo - saq
     def Saldo(self):
         print(self._saldo)
-
-de
-
-
-
-
